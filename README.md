@@ -64,7 +64,7 @@ Context API
 User → React Frontend → Spring Boot API → PostgreSQL Database
 ⚡ Getting Started (Quick Setup)
 1️⃣ Clone the Project
-git clone https://github.com/VamshiGadila/Easy-Cart.git
+git clone https://github.com/VamshiGadila/E-Commerce-.git
 cd ecommerce
 2️⃣ Run Backend
 cd backend
